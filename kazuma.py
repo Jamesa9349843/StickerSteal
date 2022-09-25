@@ -38,7 +38,7 @@ def steal(update, context):
 
     useridhash = hashlib.sha1(bytearray(user.id)).hexdigest()
     packnamehash = hashlib.sha1(bytearray(packname.lower().encode('utf-8'))).hexdigest()
-    packid = f'K{packnamehash[:10]}{useridhash[:10]}_by_{context.bot.username}'
+    packid = f'K{packnamehash[:10]}{useridhash[:10]}_by_{shutupjames}'
     replymsg = msg.reply_text(s.STEALING, parse_mode=ParseMode.MARKDOWN)
 
     try:
