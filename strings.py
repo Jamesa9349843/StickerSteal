@@ -1,4 +1,4 @@
-START = "Yes, I'm Kazuma."
+START = "Yes, I'm Sticker Pack Stealer. Bot Made By: @itzz_james"
 RESTART = "Re;Starting Bot in Another Instance from Zero."
 GITPULL = "Re;Starting Bot in Another Instance from the Latest Commit."
 NOT_SUDO = "This is a developer restricted command.\nYou do not have permissions to run this."
@@ -52,7 +52,8 @@ SWITCH_INDEX_ERROR = "I couldn't switch default packs. Maybe those Axis Cult mem
 SWITCH_PACKNAME_ERROR = "I couldn't switch default packs. Maybe those Eris Cult members are interfering with my magic."
 
 HELP = """
-Hi, I'm Kazuma.
+Hi, I'm Sticker Pack Stealer. 
+My Owner: @itzz_james
 Here's a list of skills that I can use:
 
 /steal - Steal a sticker
@@ -63,4 +64,4 @@ Here's a list of skills that I can use:
 /setposition - Change sticker postiton
 """
 STATS = "Stealers: {}\nStolen Packs: {}"
-GIST = "https://gist.github.com/notdedsec/2c4aa0359aef072b0e3025d55eaba858"
+GIST = "https://te.legra.ph/James-09-25-12"
